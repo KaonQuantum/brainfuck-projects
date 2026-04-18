@@ -1,0 +1,3 @@
+[submodule "applesilicon-brainfuck"]
+	path = applesilicon-brainfuck
+	url = https://github.com/sconstable/applesilicon-brainfuck
